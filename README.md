@@ -5,13 +5,13 @@ This repository contains a collection of advanced Java code examples and project
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
+- Introduction
+- Features
+- Getting Started
+- Usage
+- Examples
+- Contributing
+- License
 
 ## Introduction
 
